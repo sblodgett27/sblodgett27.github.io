@@ -1,0 +1,116 @@
+*{
+	color: black;
+}
+
+h1 {
+	font-family: Arial, Verdana, sans-serif;
+	text-align: center;
+	padding-bottom: 25px;
+	padding-left: 50px;
+}
+
+h3 {
+	font-family: Arial, Verdana, sans-serif;
+	text-align: center;
+}
+
+body {
+	font-family: Arial, Verdana, sans-serif;
+	background: #dee0e3;
+	margin-top: 25px;
+}
+
+nav {
+	text-align: center;
+	font-family: "Times New Roman", Georgia, serif;
+	display: inline;
+	margin-bottom: 25px;
+	padding-bottom: 25px;
+}
+
+.navigation {
+	font-family: "Times New Roman", Georgia, serif;
+	text-align: center;
+	display: inline;
+	border-style: double;
+	border-color:  #5E4352;
+	border-width: 9px;
+	background-color: #eeeeee;
+	padding: 10px 25px 10px 25px;
+	margin: 70px;
+}
+
+#social {
+	font-family: Arial, Verdana, sans-serif;
+	display: block;
+	font-style: italic;
+	padding: 10px;
+}
+
+#socialblock {
+	font-family: Arial, Verdana, sans-serif;
+	width: 200px;
+	padding: 10px;
+	margin-left: 615px;
+}
+
+main {
+	font-family: Arial, Verdana, sans-serif;
+	text-align: left;
+	width:  500px;
+	padding: 15px;
+	margin-top: 15px;
+	background-color: #eeeeee;
+	margin-left: 300px;
+	margin-top: 30px;
+}
+
+.aboutme {
+	font-family: Arial, Verdana, sans-serif;
+	text-align: center;
+	padding: 5px;
+	margin-top: 30px;
+}
+
+#resume {
+	font-family: Arial, Verdana, sans-serif;
+	width: 700px;
+	text-align: center;
+	padding: 15px;
+	margin-left: 370px;
+}
+
+.social {
+	font-family: Arial, Verdana, sans-serif;
+	margin-left: 450px;
+}
+
+article {
+	font-family: Arial, Verdana, sans-serif;
+	width: 500px;
+	text-align: left;
+	padding: 15px;
+	background-color: #eeeeee;
+	margin-left: 300px;
+	margin-top: 30px;
+}
+
+aside {
+	font-family: Arial, Verdana, sans-serif;
+	float: right;
+	text-align: right;
+	margin-left: 30px;
+	margin-right: 300px;
+	margin-top: 30px;
+}
+
+dt{
+	font-family: Arial, Verdana, sans-serif;
+	font-weight: 700;
+}
+
+footer {
+	font-family: Arial, Verdana, sans-serif;
+	text-align: center;
+	padding-top: 25px;
+}
